@@ -61,6 +61,7 @@ export const storageKeys = [
   "pipHotkey",
   "m3u8ProxyHost",
   "proxyWorkerHost",
+  "mediaProxyHost",
   "translateProxyEnabled",
   "translateProxyEnabledDefault",
   "audioBooster",
@@ -148,6 +149,7 @@ export type StorageData = {
   // other
   m3u8ProxyHost: string;
   proxyWorkerHost: string;
+  mediaProxyHost: string;
   translateProxyEnabled: TranslateProxyStatus;
   translateProxyEnabledDefault: boolean;
   audioBooster: boolean;

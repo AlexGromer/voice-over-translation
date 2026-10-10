@@ -21,6 +21,7 @@ import {
 } from "../utils/volume";
 import type { VideoHandler } from "../VideoHandler";
 import VOTLocalizedError from "../VOTLocalizedError";
+import { normalizeMediaProxyHost } from "../videoHandler/modules/proxyShared";
 import { isExternalVolumeHost } from "./hostPolicies";
 
 const FORCED_DETECTED_LANGUAGE_BY_HOST: Record<string, RequestLang> = {
@@ -536,6 +537,9 @@ export class VOTVideoManager {
       fetchFn: GM_fetch,
       video: this.videoHandler.video,
       language: localizationProvider.lang,
+      mediaProxy: normalizeMediaProxyHost(
+        this.videoHandler.data?.mediaProxyHost,
+      ),
     });
 
     const { detectedLanguage, sharedLanguageState } =
