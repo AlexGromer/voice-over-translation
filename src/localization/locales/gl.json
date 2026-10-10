@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Máxima similitude. Como se todos coñecesen o galego",
   "VOTYandexTokenExpired": "A sesión rematou. Entra de novo",
   "VOTVoiceSelection": "Escoller o doblaxe",
-  "VOTRetryTranslation": "Tentar de novo a tradución"
+  "VOTRetryTranslation": "Tentar de novo a tradución",
+  "VOTMediaProxyHost": "Introduza o enderezo de proxy de medios"
 }

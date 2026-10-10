@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Similitude maximale. Comme si tout le monde connaissait le russe",
   "VOTYandexTokenExpired": "La session a expiré. Connectez-vous à nouveau",
   "VOTVoiceSelection": "Choisissez le doublage",
-  "VOTRetryTranslation": "Réessayer la traduction"
+  "VOTRetryTranslation": "Réessayer la traduction",
+  "VOTMediaProxyHost": "Entrez l'adresse proxy du média"
 }

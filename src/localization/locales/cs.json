@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Maximální podobnost. Jako by každý věděl rusky",
   "VOTYandexTokenExpired": "Relace vypršela. Přihlásit se znovu",
   "VOTVoiceSelection": "Vyberte si Dabing",
-  "VOTRetryTranslation": "Zkusit překlad znovu"
+  "VOTRetryTranslation": "Zkusit překlad znovu",
+  "VOTMediaProxyHost": "Zadejte adresu proxy serveru médií"
 }

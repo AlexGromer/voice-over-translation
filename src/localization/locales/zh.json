@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "最大相似度。 好像每个人都知道俄语",
   "VOTYandexTokenExpired": "会话过期。 再次登入",
   "VOTVoiceSelection": "选择配音",
-  "VOTRetryTranslation": "重试翻译"
+  "VOTRetryTranslation": "重试翻译",
+  "VOTMediaProxyHost": "输入媒体代理地址"
 }

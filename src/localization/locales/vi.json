@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Sự tương đồng tối đa. Như thể mọi người đều biết tiếng nga",
   "VOTYandexTokenExpired": "Phiên hết hạn. Đăng nhập lại",
   "VOTVoiceSelection": "Chọn lồng tiếng",
-  "VOTRetryTranslation": "Thử dịch lại"
+  "VOTRetryTranslation": "Thử dịch lại",
+  "VOTMediaProxyHost": "Nhập địa chỉ proxy phương tiện"
 }

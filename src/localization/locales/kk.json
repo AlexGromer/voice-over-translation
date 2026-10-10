@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Максималды ұқсастық. Барлығы орыс тілін білетін сияқты",
   "VOTYandexTokenExpired": "Сессияның мерзімі аяқталды. Қайта кіріңіз",
   "VOTVoiceSelection": "Дубляжды таңдаңыз",
-  "VOTRetryTranslation": "Аударманы қайталап көру"
+  "VOTRetryTranslation": "Аударманы қайталап көру",
+  "VOTMediaProxyHost": "Медиа прокси мекенжайын енгізіңіз"
 }

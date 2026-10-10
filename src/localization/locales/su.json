@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Kamiripan maksimum. Seolah olah semuanya tahu rusia",
   "VOTYandexTokenExpired": "Sesi kadaluarsa. Asup deui",
   "VOTVoiceSelection": "Pilih dubbing",
-  "VOTRetryTranslation": "Coba tarjamahkeun deui"
+  "VOTRetryTranslation": "Coba tarjamahkeun deui",
+  "VOTMediaProxyHost": "Tuliskeun alamat proxy media"
 }

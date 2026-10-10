@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "حداکثر شباهت. گویی همه روسی می دانند",
   "VOTYandexTokenExpired": "جلسه منقضی شد. دوباره وارد شوید",
   "VOTVoiceSelection": "دوبله را انتخاب کنید",
-  "VOTRetryTranslation": "تلاش مجدد برای ترجمه"
+  "VOTRetryTranslation": "تلاش مجدد برای ترجمه",
+  "VOTMediaProxyHost": "آدرس پروکسی رسانه را وارد کنید"
 }

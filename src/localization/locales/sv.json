@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Maximal likhet. Som om alla vet ryska",
   "VOTYandexTokenExpired": "Sessionen har gått ut. Logga in igen",
   "VOTVoiceSelection": "Välj dubbning",
-  "VOTRetryTranslation": "Försök översätta igen"
+  "VOTRetryTranslation": "Försök översätta igen",
+  "VOTMediaProxyHost": "Ange media proxy-adressen"
 }

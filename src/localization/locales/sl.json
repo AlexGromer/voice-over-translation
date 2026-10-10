@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Največja podobnost. Kot da vsi vedo rusko",
   "VOTYandexTokenExpired": "Seja je potekla. Ponovno se prijavite",
   "VOTVoiceSelection": "Izberite sinhronizacijo",
-  "VOTRetryTranslation": "Poskusi prevod znova"
+  "VOTRetryTranslation": "Poskusi prevod znova",
+  "VOTMediaProxyHost": "Vnesite naslov predstavnostnega posrednika"
 }

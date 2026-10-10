@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Suurin samankaltaisuus. Aivan kuin kaikki osaisivat Venäjää",
   "VOTYandexTokenExpired": "Istunto päättyi. Kirjaudu sisään uudelleen",
   "VOTVoiceSelection": "Valitse dubbaus",
-  "VOTRetryTranslation": "Yritä käännöstä uudelleen"
+  "VOTRetryTranslation": "Yritä käännöstä uudelleen",
+  "VOTMediaProxyHost": "Anna median välityspalvelimen osoite"
 }

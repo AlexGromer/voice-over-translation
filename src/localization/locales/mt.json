@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Xebh massimu. Bħallikieku kulħadd jaf ir russu",
   "VOTYandexTokenExpired": "Sessjoni skada. Idħol mill-ġdid",
   "VOTVoiceSelection": "Agħżel id-doppjaġġ",
-  "VOTRetryTranslation": "Erġa’ pprova t-traduzzjoni"
+  "VOTRetryTranslation": "Erġa’ pprova t-traduzzjoni",
+  "VOTMediaProxyHost": "Daħħal l indirizz tal prokura tal midja"
 }

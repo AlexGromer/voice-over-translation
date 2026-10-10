@@ -253,5 +253,6 @@
   "smartDucking": "Адаптивная громкость",
   "VOTYandexTokenExpired": "Сессия истекла. Войдите снова",
   "VOTVoiceSelection": "Выбрать озвучку",
-  "VOTRetryTranslation": "Повторить перевод"
+  "VOTRetryTranslation": "Повторить перевод",
+  "VOTMediaProxyHost": "Введите адрес медиа-прокси-сервера"
 }

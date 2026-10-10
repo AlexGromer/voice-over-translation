@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Similitudine maximă. Ca și cum toată lumea știe limba rusă",
   "VOTYandexTokenExpired": "Sesiunea a expirat. Conectați-vă din nou",
   "VOTVoiceSelection": "Alegeți dublarea",
-  "VOTRetryTranslation": "Reîncearcă traducerea"
+  "VOTRetryTranslation": "Reîncearcă traducerea",
+  "VOTMediaProxyHost": "Introduceți adresa proxy media"
 }

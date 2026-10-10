@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Максимална сличност. Како секој да знае руски",
   "VOTYandexTokenExpired": "Сесијата истече. Пријавете се повторно",
   "VOTVoiceSelection": "Изберете синхронизација",
-  "VOTRetryTranslation": "Обиди се повторно со преводот"
+  "VOTRetryTranslation": "Обиди се повторно со преводот",
+  "VOTMediaProxyHost": "Внесете ја адресата за медиумски прокси"
 }

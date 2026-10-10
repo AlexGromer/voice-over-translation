@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "अधिकतम समानता। जैसे कि हर कोई रूसी जानता है",
   "VOTYandexTokenExpired": "सत्र समाप्त हो गया ।  फिर से लॉग इन करें",
   "VOTVoiceSelection": "डबिंग चुनें",
-  "VOTRetryTranslation": "अनुवाद का फिर से प्रयास करें"
+  "VOTRetryTranslation": "अनुवाद का फिर से प्रयास करें",
+  "VOTMediaProxyHost": "मीडिया प्रॉक्सी पता दर्ज करें"
 }

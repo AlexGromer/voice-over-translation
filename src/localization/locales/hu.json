@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Maximális hasonlóság. Mint ha mindenki tudja, orosz",
   "VOTYandexTokenExpired": "A munkamenet lejárt. Jelentkezzen be újra",
   "VOTVoiceSelection": "Válassza ki a szinkronizálást",
-  "VOTRetryTranslation": "Fordítás újrapróbálása"
+  "VOTRetryTranslation": "Fordítás újrapróbálása",
+  "VOTMediaProxyHost": "Adja meg a Média proxy címét"
 }

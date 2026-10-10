@@ -253,5 +253,6 @@
   "VOTLiveVoicesSubtitle": "Maximale gelijkenis. Alsof iedereen Russisch kent",
   "VOTYandexTokenExpired": "Sessie verlopen. Opnieuw inloggen",
   "VOTVoiceSelection": "Kies dubbing",
-  "VOTRetryTranslation": "Vertaling opnieuw proberen"
+  "VOTRetryTranslation": "Vertaling opnieuw proberen",
+  "VOTMediaProxyHost": "Voer het media proxy adres in"
 }
