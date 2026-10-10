@@ -19,6 +19,7 @@ import {
 } from "../utils/volume";
 import type { VideoHandler } from "../VideoHandler";
 import VOTLocalizedError from "../VOTLocalizedError";
+import { normalizeMediaProxyHost } from "../videoHandler/modules/proxyShared";
 import type { VideoData as RuntimeVideoData } from "../videoHandler/shared";
 import { isExternalVolumeHost } from "./hostPolicies";
 import { detect } from "./translateApis";
@@ -536,6 +537,9 @@ export class VOTVideoManager {
       fetchFn: GM_fetch,
       video: this.videoHandler.video,
       language: localizationProvider.lang,
+      mediaProxy: normalizeMediaProxyHost(
+        this.videoHandler.data?.mediaProxyHost,
+      ),
     });
 
     const { detectedLanguage, sharedLanguageState } =

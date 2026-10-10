@@ -1,5 +1,7 @@
 // CONFIGURATION
 
+import votConfig from "@vot.js/shared/config";
+
 export const workerHost = "api.browser.yandex.ru";
 
 /**
@@ -14,6 +16,13 @@ export const m3u8ProxyHost = "media-proxy.toil.cc/v1/proxy/m3u8";
  */
 export const proxyWorkerHostMode1 = "vot-worker.vtrans.eu.cc";
 export const proxyWorkerHost = "vot-worker.eu.cc"; // vot-worker.toil.cc
+
+/**
+ * Host of the media proxy that Yandex servers use to fetch some media links
+ *
+ * @see https://github.com/FOSWLY/media-proxy
+ */
+export const mediaProxyHost = votConfig.mediaProxy;
 
 /**
  * @see https://github.com/FOSWLY/translate-backend

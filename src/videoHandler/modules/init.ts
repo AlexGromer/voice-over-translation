@@ -5,6 +5,7 @@ import {
   defaultDetectService,
   defaultTranslationService,
   m3u8ProxyHost,
+  mediaProxyHost,
   proxyOnlyCountries,
   proxyWorkerHost,
 } from "../../config/config";
@@ -83,6 +84,7 @@ export async function init(this: VideoHandler) {
     subtitlesHotkey: null,
     m3u8ProxyHost,
     proxyWorkerHost,
+    mediaProxyHost,
     translateProxyEnabled: 0,
     translateProxyEnabledDefault: true,
     audioBooster: false,

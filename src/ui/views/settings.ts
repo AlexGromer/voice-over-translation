@@ -16,6 +16,7 @@ const SETTINGS_EVENT_KEYS: Array<keyof SettingsViewEventMap> = [
   "select:responseLanguageSubtitles",
   "select:subtitlesFontFamily",
   "change:proxyWorkerHost",
+  "change:mediaProxyHost",
   "change:useNewAudioPlayer",
   "change:onlyBypassMediaCSP",
   "change:showPiPButton",
@@ -49,6 +50,7 @@ import {
   defaultAutoVolume,
   defaultDetectService,
   defaultTranslationService,
+  mediaProxyHost,
   proxyOnlyCountries,
   proxyWorkerHost,
 } from "../../config/config";
@@ -100,6 +102,7 @@ import { isProxyOnlyExtension, isSupportGMXhr } from "../../utils/gm";
 import { votStorage } from "../../utils/storage";
 import { isPiPAvailable } from "../../utils/utils";
 import type { VideoHandler } from "../../VideoHandler";
+import { normalizeMediaProxyHost } from "../../videoHandler/modules/proxyShared";
 import { getCountryCode } from "../../videoHandler/shared";
 import { normalizeButtonPosition } from "../buttonPlacement";
 import AccountButton from "../components/accountButton";
@@ -257,6 +260,7 @@ export class SettingsView {
   translateHotkeyButton?: HotkeyButton;
   subtitlesHotkeyButton?: HotkeyButton;
   proxyWorkerHostTextfield?: Textfield;
+  mediaProxyHostTextfield?: Textfield;
   proxyTranslationStatusSelectLabel?: Label;
   proxyTranslationStatusSelectTooltip?: Tooltip;
   proxyTranslationStatusSelect?: Select;
@@ -925,6 +929,11 @@ export class SettingsView {
       value: this.data.proxyWorkerHost,
       placeholder: proxyWorkerHost,
     });
+    this.mediaProxyHostTextfield = new Textfield({
+      labelHtml: localizationProvider.get("VOTMediaProxyHost"),
+      value: this.data.mediaProxyHost,
+      placeholder: mediaProxyHost,
+    });
     const proxyEnabledLabels = [
       localizationProvider.get("VOTTranslateProxyDisabled"),
       localizationProvider.get("VOTTranslateProxyEnabled"),
@@ -961,6 +970,7 @@ export class SettingsView {
     });
     proxySection.content.append(
       this.proxyWorkerHostTextfield.container,
+      this.mediaProxyHostTextfield.container,
       this.proxyTranslationStatusSelect.container,
     );
     this.translateAPIErrorsCheckbox = new Checkbox({
@@ -1448,6 +1458,16 @@ export class SettingsView {
         this.data.proxyWorkerHost,
       );
       this.events["change:proxyWorkerHost"].dispatch(value);
+    });
+    this.mediaProxyHostTextfield.addEventListener("change", async (value) => {
+      this.data.mediaProxyHost = normalizeMediaProxyHost(value);
+      this.mediaProxyHostTextfield.value = this.data.mediaProxyHost;
+      await votStorage.set("mediaProxyHost", this.data.mediaProxyHost);
+      debug.log(
+        "mediaProxyHost value changed. New value:",
+        this.data.mediaProxyHost,
+      );
+      this.events["change:mediaProxyHost"].dispatch(this.data.mediaProxyHost);
     });
     this.proxyTranslationStatusSelect.addEventListener(
       "selectItem",

@@ -29,6 +29,7 @@ export type SettingsViewEventMap = {
   "select:responseLanguageSubtitles": [item: ResponseLanguageSubtitles];
   "select:subtitlesFontFamily": [item: SubtitleFontFamily];
   "change:proxyWorkerHost": [value: string];
+  "change:mediaProxyHost": [value: string];
   "change:useNewAudioPlayer": [checked: boolean];
   "change:onlyBypassMediaCSP": [checked: boolean];
   "change:showPiPButton": [checked: boolean];

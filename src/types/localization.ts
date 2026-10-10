@@ -248,6 +248,7 @@ export type Phrase =
   | "VOTTranslateAPIErrors"
   | "VOTDetectService"
   | "VOTProxyWorkerHost"
+  | "VOTMediaProxyHost"
   | "VOTM3u8ProxyHost"
   | "proxySettings"
   | "translationTakeApproximatelyMinute2"
@@ -502,6 +503,7 @@ export type Phrases = {
   VOTTranslateAPIErrors: string;
   VOTDetectService: string;
   VOTProxyWorkerHost: string;
+  VOTMediaProxyHost: string;
   VOTM3u8ProxyHost: string;
   proxySettings: string;
   translationTakeApproximatelyMinute2: string;
