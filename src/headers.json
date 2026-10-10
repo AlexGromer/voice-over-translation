@@ -135,6 +135,7 @@
     "*://*.preservetube.com/*",
     "*://*.mediafile.cc/*",
     "*://*.skilljar.com/*",
+    "*://courses.edx.org/*",
     "*://projector.datacamp.com/*",
     "*://hot.noodlemagazine.com/*",
     "*://fast.wistia.net/*",

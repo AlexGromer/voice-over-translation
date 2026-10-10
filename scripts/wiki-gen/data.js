@@ -283,6 +283,9 @@ const siteData = {
   netacad: {
     paths: ["/content/i2cs/*"],
   },
+  edx: {
+    domains: ["courses.edx.org"],
+  },
   niconico: {
     paths: ["/watch/VIDEO_ID"],
   },
