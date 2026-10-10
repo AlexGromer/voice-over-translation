@@ -267,5 +267,6 @@
   "VOTLogin": "Daxil ol",
   "VOTAutoPauseOnTranslate": "Pause video until translation is ready",
   "VOTSmartDuckingStrength": "Adaptiv həcm azaltma gücü",
-  "VOTRetryTranslation": "Tərcüməni yenidən sınayın"
+  "VOTRetryTranslation": "Tərcüməni yenidən sınayın",
+  "VOTMediaProxyHost": "Media proxy server ünvanını daxil edin"
 }

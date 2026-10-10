@@ -267,5 +267,6 @@
   "VOTLogin": "ເຂົ້າສູ່ລະບົບ",
   "VOTAutoPauseOnTranslate": "ຢຸດວິດີໂອຈົນກ່ວາການແປພາສາແມ່ນກຽມພ້ອມ",
   "VOTSmartDuckingStrength": "ຄວາມເຂັ້ມແຂງການຫຼຸດຜ່ອນປະລິມານການປັບ",
-  "VOTRetryTranslation": "ລອງແປອີກຄັ້ງ"
+  "VOTRetryTranslation": "ລອງແປອີກຄັ້ງ",
+  "VOTMediaProxyHost": "ກະລຸນາໃສ່ທີ່ຢູ່ຕົວແທນສື່ມວນຊົນ"
 }

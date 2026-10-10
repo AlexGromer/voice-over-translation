@@ -267,5 +267,6 @@
   "VOTLogin": "Kirjautuminen",
   "VOTAutoPauseOnTranslate": "Keskeytä video, Kunnes käännös on valmis",
   "VOTSmartDuckingStrength": "Mukautuva äänenvoimakkuuden vähennyslujuus",
-  "VOTRetryTranslation": "Yritä käännöstä uudelleen"
+  "VOTRetryTranslation": "Yritä käännöstä uudelleen",
+  "VOTMediaProxyHost": "Anna median välityspalvelimen osoite"
 }

@@ -267,5 +267,6 @@
   "VOTLogin": "로그인",
   "VOTAutoPauseOnTranslate": "번역이 준비 될 때까지 비디오 일시 중지",
   "VOTSmartDuckingStrength": "적합한 양 감소 힘",
-  "VOTRetryTranslation": "번역 다시 시도"
+  "VOTRetryTranslation": "번역 다시 시도",
+  "VOTMediaProxyHost": "미디어 프록시 주소를 입력합니다"
 }

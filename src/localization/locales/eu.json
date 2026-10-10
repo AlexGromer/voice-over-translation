@@ -267,5 +267,6 @@
   "VOTLogin": "Saioa hasi",
   "VOTAutoPauseOnTranslate": "Pausatu bideoa itzulpena prest dagoen arte",
   "VOTSmartDuckingStrength": "Bolumena murrizteko erresistentzia egokitzailea",
-  "VOTRetryTranslation": "Saiatu itzulpena berriro"
+  "VOTRetryTranslation": "Saiatu itzulpena berriro",
+  "VOTMediaProxyHost": "Sartu komunikabideen ordezkariaren helbidea"
 }

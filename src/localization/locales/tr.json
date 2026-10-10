@@ -267,5 +267,6 @@
   "VOTLogin": "Oturum aç",
   "VOTAutoPauseOnTranslate": "Çeviri hazır olana kadar videoyu duraklatın",
   "VOTSmartDuckingStrength": "Uyarlanabilir ses azaltma gücü",
-  "VOTRetryTranslation": "Çeviriyi yeniden dene"
+  "VOTRetryTranslation": "Çeviriyi yeniden dene",
+  "VOTMediaProxyHost": "Medya proxy adresini girin"
 }

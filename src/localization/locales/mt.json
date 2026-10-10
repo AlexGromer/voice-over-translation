@@ -267,5 +267,6 @@
   "VOTLogin": "Login",
   "VOTAutoPauseOnTranslate": "Nieqaf il-vidjow sakemm it-traduzzjoni tkun lesta",
   "VOTSmartDuckingStrength": "Qawwa adattiva għat-tnaqqis tal-volum",
-  "VOTRetryTranslation": "Erġa’ pprova t-traduzzjoni"
+  "VOTRetryTranslation": "Erġa’ pprova t-traduzzjoni",
+  "VOTMediaProxyHost": "Daħħal l indirizz tal prokura tal midja"
 }

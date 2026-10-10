@@ -267,5 +267,6 @@
   "VOTLogin": "Нэвтрэх",
   "VOTAutoPauseOnTranslate": "Орчуулга бэлэн болтол видеог түр зогсоо",
   "VOTSmartDuckingStrength": "Дасан зохицох хэмжээ бууруулах хүч чадал",
-  "VOTRetryTranslation": "Орчуулгыг дахин оролдох"
+  "VOTRetryTranslation": "Орчуулгыг дахин оролдох",
+  "VOTMediaProxyHost": "Медиа прокси хаягийг оруулна уу"
 }

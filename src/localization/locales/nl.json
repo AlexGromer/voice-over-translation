@@ -267,5 +267,6 @@
   "VOTLogin": "Login",
   "VOTAutoPauseOnTranslate": "Video pauzeren tot de vertaling klaar is",
   "VOTSmartDuckingStrength": "Aanpassingssterkte van de volumereductie",
-  "VOTRetryTranslation": "Vertaling opnieuw proberen"
+  "VOTRetryTranslation": "Vertaling opnieuw proberen",
+  "VOTMediaProxyHost": "Voer het media proxy adres in"
 }

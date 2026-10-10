@@ -267,5 +267,6 @@
   "VOTLogin": "लॉगिन करें",
   "VOTAutoPauseOnTranslate": "Pause video until translation is ready",
   "VOTSmartDuckingStrength": "अनुकूली मात्रा में कमी ताकत",
-  "VOTRetryTranslation": "अनुवाद का फिर से प्रयास करें"
+  "VOTRetryTranslation": "अनुवाद का फिर से प्रयास करें",
+  "VOTMediaProxyHost": "मीडिया प्रॉक्सी पता दर्ज करें"
 }

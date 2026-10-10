@@ -267,5 +267,6 @@
   "VOTLogin": "Авторизувати",
   "VOTAutoPauseOnTranslate": "Призупиніть Відео, поки переклад не буде готовий",
   "VOTSmartDuckingStrength": "Адаптивна сила зменшення обсягу",
-  "VOTRetryTranslation": "Повторити переклад"
+  "VOTRetryTranslation": "Повторити переклад",
+  "VOTMediaProxyHost": "Введіть адресу медіа-проксі-сервера"
 }

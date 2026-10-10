@@ -267,5 +267,6 @@
   "VOTLogin": "Մուտք գործել",
   "VOTAutoPauseOnTranslate": "Դադարեցրեք տեսանյութը, մինչև թարգմանությունը պատրաստ լինի",
   "VOTSmartDuckingStrength": "Հարմարվողական ծավալի նվազեցման ուժ",
-  "VOTRetryTranslation": "Կրկին փորձել թարգմանությունը"
+  "VOTRetryTranslation": "Կրկին փորձել թարգմանությունը",
+  "VOTMediaProxyHost": "Մուտքագրեք լրատվամիջոցների վստահված սերվերի հասցեն"
 }

@@ -266,5 +266,6 @@
   "VOTLogin": "Login",
   "VOTAutoPauseOnTranslate": "Pausar o vídeo até que a tradução esteja pronta",
   "VOTSmartDuckingStrength": "Força adaptativa da redução do volume",
-  "VOTRetryTranslation": "Tentar tradução novamente"
+  "VOTRetryTranslation": "Tentar tradução novamente",
+  "VOTMediaProxyHost": "Insira o endereço do proxy de mídia"
 }

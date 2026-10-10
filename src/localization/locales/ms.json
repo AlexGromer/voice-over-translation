@@ -267,5 +267,6 @@
   "VOTLogin": "Logmasuk",
   "VOTAutoPauseOnTranslate": "Jeda video sehingga terjemahan siap",
   "VOTSmartDuckingStrength": "Kekuatan pengurangan isipadu adaptif",
-  "VOTRetryTranslation": "Cuba terjemahan sekali lagi"
+  "VOTRetryTranslation": "Cuba terjemahan sekali lagi",
+  "VOTMediaProxyHost": "Masukkan alamat proksi media"
 }

@@ -267,5 +267,6 @@
   "VOTLogin": "Login",
   "VOTAutoPauseOnTranslate": "Pause video, indtil oversættelsen er klar",
   "VOTSmartDuckingStrength": "Adaptiv volumenreduktionsstyrke",
-  "VOTRetryTranslation": "Prøv oversættelsen igen"
+  "VOTRetryTranslation": "Prøv oversættelsen igen",
+  "VOTMediaProxyHost": "Indtast adressen til mediemeddelelse"
 }

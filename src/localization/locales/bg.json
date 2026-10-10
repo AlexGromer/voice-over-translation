@@ -267,5 +267,6 @@
   "VOTLogin": "Вход",
   "VOTAutoPauseOnTranslate": "Pause video until translation is ready",
   "VOTSmartDuckingStrength": "Адаптивно намаляване на обема",
-  "VOTRetryTranslation": "Повторен опит за превод"
+  "VOTRetryTranslation": "Повторен опит за превод",
+  "VOTMediaProxyHost": "Въведете адреса на прокси сървъра"
 }

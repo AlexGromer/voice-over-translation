@@ -267,5 +267,6 @@
   "VOTLogin": "Ukungena ngemvume",
   "VOTAutoPauseOnTranslate": "Phumula ividiyo kuze translation isilungile",
   "VOTSmartDuckingStrength": "Amandla okunciphisa umthamo wokuzivumelanisa nezimo",
-  "VOTRetryTranslation": "Zama ukuhumusha futhi"
+  "VOTRetryTranslation": "Zama ukuhumusha futhi",
+  "VOTMediaProxyHost": "Faka ikheli le-media proxy"
 }

@@ -267,5 +267,6 @@
   "VOTLogin": "Login",
   "VOTAutoPauseOnTranslate": "Ngaso video nganti terjemahan siap",
   "VOTSmartDuckingStrength": "Kekuatan pengurangan volume adaptif",
-  "VOTRetryTranslation": "Coba terjemahake maneh"
+  "VOTRetryTranslation": "Coba terjemahake maneh",
+  "VOTMediaProxyHost": "Ketik alamat proxy media"
 }

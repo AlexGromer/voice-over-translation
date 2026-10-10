@@ -267,5 +267,6 @@
   "VOTLogin": "Кіру",
   "VOTAutoPauseOnTranslate": "Аударма дайын болғанша бейнені кідіртіңіз",
   "VOTSmartDuckingStrength": "Адаптивті көлемді азайту күші",
-  "VOTRetryTranslation": "Аударманы қайталап көру"
+  "VOTRetryTranslation": "Аударманы қайталап көру",
+  "VOTMediaProxyHost": "Медиа прокси мекенжайын енгізіңіз"
 }

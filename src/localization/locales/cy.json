@@ -267,5 +267,6 @@
   "VOTLogin": "Login",
   "VOTAutoPauseOnTranslate": "Seibio fideo nes bod y cyfieithiad yn barod",
   "VOTSmartDuckingStrength": "Cryfder lleihau cyfaint addasol",
-  "VOTRetryTranslation": "Rhoi cynnig arall ar y cyfieithiad"
+  "VOTRetryTranslation": "Rhoi cynnig arall ar y cyfieithiad",
+  "VOTMediaProxyHost": "Rhowch gyfeiriad dirprwy y cyfryngau"
 }

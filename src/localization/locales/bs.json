@@ -267,5 +267,6 @@
   "VOTLogin": "Prijava",
   "VOTAutoPauseOnTranslate": "Pause video until translation is ready",
   "VOTSmartDuckingStrength": "Adaptivna snaga smanjenja volumena",
-  "VOTRetryTranslation": "Pokušaj ponovo prevesti"
+  "VOTRetryTranslation": "Pokušaj ponovo prevesti",
+  "VOTMediaProxyHost": "Unesite adresu proxy-a za medije"
 }

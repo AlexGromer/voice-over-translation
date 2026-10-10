@@ -267,5 +267,6 @@
   "VOTLogin": "Ingia",
   "VOTAutoPauseOnTranslate": "Pumzika video mpaka tafsiri iko tayari",
   "VOTSmartDuckingStrength": "Adaptive kiasi kupunguza nguvu",
-  "VOTRetryTranslation": "Jaribu kutafsiri tena"
+  "VOTRetryTranslation": "Jaribu kutafsiri tena",
+  "VOTMediaProxyHost": "Ingiza anwani ya wakala wa media"
 }
