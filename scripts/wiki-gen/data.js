@@ -284,7 +284,9 @@ const siteData = {
     paths: ["/content/i2cs/*"],
   },
   edx: {
-    domains: ["courses.edx.org"],
+    domains: ["learning.edx.org"],
+    paths: ["/course/*"],
+    limits: [locales.needBeLoggedIn],
   },
   niconico: {
     paths: ["/watch/VIDEO_ID"],
